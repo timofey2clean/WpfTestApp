@@ -1,0 +1,17 @@
+E:\c#\testing\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+E:\c#\testing\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+E:\c#\testing\WpfTest\WpfTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\c#\testing\WpfTest\WpfTest\obj\x86\Debug\MainWindow.g.cs
+E:\c#\testing\WpfTest\WpfTest\obj\x86\Debug\App.g.cs
+E:\c#\testing\WpfTest\WpfTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\c#\testing\WpfTest\WpfTest\obj\x86\Debug\WpfTest_MarkupCompile.cache
+E:\c#\testing\WpfTest\WpfTest\obj\x86\Debug\WpfTest_MarkupCompile.lref
+E:\c#\testing\WpfTest\WpfTest\obj\x86\Debug\MainWindow.baml
+E:\c#\testing\WpfTest\WpfTest\obj\x86\Debug\WpfTest.g.resources
+E:\c#\testing\WpfTest\WpfTest\obj\x86\Debug\WpfTest.Properties.Resources.resources
+E:\c#\testing\WpfTest\WpfTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\c#\testing\WpfTest\WpfTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\c#\testing\WpfTest\WpfTest\obj\x86\Debug\WpfTest.exe
+E:\c#\testing\WpfTest\WpfTest\obj\x86\Debug\WpfTest.pdb
+D:\Code\c#\WpfTest\WpfTest\obj\x86\Debug\App.g.cs
+D:\Code\c#\WpfTest\WpfTest\obj\x86\Debug\WpfTest_MarkupCompile.cache
